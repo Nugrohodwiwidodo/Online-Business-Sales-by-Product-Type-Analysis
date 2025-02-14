@@ -1,4 +1,4 @@
-# Sales Performance Analysis: Trends, Growth, and Improvement Strategies
+# Online Business Sales by Product Type Analysis
 Diberikan sebuah data hasil penjualan berdasarkan tipe produk. Net Quantity menyatakan banyaknya barang yang terjual, jika nilainya negatif artinya terdapat barang yang rusak dan mendapatkan kerugian seharga dengan harga jual barang. Gross Sales menyatakan total harga jual yang diperoleh dari harga satuan barang dikali dengan Net Quantity pada jenis barang tertentu. Discounts menyatakan total potongan harga dari suatu jenis barang. Returns menyatakan pengembalian dana yang dilakukan penjual kepada pembeli dikarenakan beberapa alasan pengembalian barang. Total Net Sales merupakan total harga jual akhir, atau total pendapatan dari suatu jenis barang.
 
 Defining Questions
